@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/lautaro/.dotnet/store/|arch|/|tfm|",
+      "/home/lautaro/.nuget/packages"
+    ]
+  }
+}
